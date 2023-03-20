@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@500&display=swap');
+
+body {
+    font-family: 'Lobster', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.H1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 8vw;
+    text-align: center;
+    z-index: 9;
+    margin: 0;
+    color: #fff;
+}
+
